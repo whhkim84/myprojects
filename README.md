@@ -38,3 +38,6 @@ python repo/test_scripts/test_scanner.py
 
 주의
 - 이 코드는 교육/연구 목적의 간단한 탐지 예시입니다. 실환경에서 사용하려면 더 정교한 시그니처, 지속 저장소, 보안 고려가 필요합니다.
+
+## PR demo
+This section added in feature branch for PR demo.
